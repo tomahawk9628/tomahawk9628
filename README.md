@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomahawk9628
+- 👋 Hi, I’m Dennis Issac
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning Machine Learning  
 - 💞️ I’m looking to collaborate on pretty much anything
